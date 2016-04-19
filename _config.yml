@@ -1,0 +1,28 @@
+name: rzescotti
+favicon: null
+layout_spectrum: 0.3345180812757462
+typography_spectrum: 0.2918526898138225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9600143961142749
+  lightness: 0.0013280506245791912
+  saturation: 0.1992164186667651
+  rhythmicContrast: 0.6393228874076158
+purpose: []
